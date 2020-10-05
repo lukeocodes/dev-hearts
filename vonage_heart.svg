@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Heart" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#CA83A7;}
 	.st1{fill:url(#Background2_1_);}
@@ -12,45 +12,46 @@
 	.st6{opacity:0.41;}
 	.st7{clip-path:url(#SVGID_2_);fill:#FFFFFF;}
 </style>
-<path id="Background" class="st0" d="M31.9,13.5c0,0,4.2-12.9,17.7-12.9c11.1,0.1,21.8,18.9,5.7,39.7C39,59.2,31.9,63.4,31.9,63.4
-	s-6.9-3.2-23-23c-16.2-19-6.7-40,6.5-39.8C28.7,0.7,31.9,13.5,31.9,13.5z"/>
-<linearGradient id="Background2_1_" gradientUnits="userSpaceOnUse" x1="-754.8898" y1="821.0524" x2="-753.903" y2="820.0656" gradientTransform="matrix(63.7933 0 0 -63.8014 48162.4922 52379.6719)">
+<path id="Background" class="st0" d="M255.6,107c0,0,33.3-103.8,141.8-103.8c88.7,0.8,174.3,152.2,45.9,319.5
+	C312.6,474.8,255.6,508.9,255.6,508.9s-55.5-26.2-183.8-185.5C-58.1,170.4,17.9,1.5,124.1,3.1C230.2,3.9,255.6,107,255.6,107z"/>
+<linearGradient id="Background2_1_" gradientUnits="userSpaceOnUse" x1="-502.2956" y1="1016.5844" x2="-494.3705" y2="1008.6594" gradientTransform="matrix(63.7933 0 0 -63.8014 32087.4121 64821.5391)">
 	<stop  offset="0" style="stop-color:#CE3691"/>
 	<stop  offset="0.5" style="stop-color:#CE3691;stop-opacity:0"/>
 </linearGradient>
-<path id="Background2" class="st1" d="M31.9,13.5c0,0,4.2-12.9,17.7-12.9c11.1,0.1,21.8,18.9,5.7,39.7C39,59.2,31.9,63.4,31.9,63.4
-	s-6.9-3.2-23-23c-16.2-19-6.7-40,6.5-39.8C28.7,0.7,31.9,13.5,31.9,13.5z"/>
-<linearGradient id="Background3_1_" gradientUnits="userSpaceOnUse" x1="-754.212" y1="820.9047" x2="-754.9028" y2="820.2139" gradientTransform="matrix(63.7933 0 0 -63.8014 48162.4922 52379.6719)">
+<path id="Background2" class="st1" d="M255.6,107c0,0,33.3-103.8,141.8-103.8c88.7,0.8,174.3,152.2,45.9,319.5
+	C312.6,474.8,255.6,508.9,255.6,508.9s-55.5-26.2-183.8-185.5C-58.1,170.4,17.9,1.5,124.1,3.1C230.2,3.9,255.6,107,255.6,107z"/>
+<linearGradient id="Background3_1_" gradientUnits="userSpaceOnUse" x1="-496.8521" y1="1015.3977" x2="-502.3997" y2="1009.85" gradientTransform="matrix(63.7933 0 0 -63.8014 32087.4121 64821.5391)">
 	<stop  offset="0" style="stop-color:#75CAEC"/>
 	<stop  offset="0.5" style="stop-color:#75CAEC;stop-opacity:0"/>
 </linearGradient>
-<path id="Background3" class="st2" d="M31.9,13.5c0,0,4.2-12.9,17.7-12.9c11.1,0.1,21.8,18.9,5.7,39.7C39,59.2,31.9,63.4,31.9,63.4
-	s-6.9-3.2-23-23c-16.2-19-6.7-40,6.5-39.8C28.7,0.7,31.9,13.5,31.9,13.5z"/>
-<linearGradient id="Background4_1_" gradientUnits="userSpaceOnUse" x1="-754.9028" y1="820.2139" x2="-754.212" y2="820.9047" gradientTransform="matrix(63.7933 0 0 -63.8014 48162.4922 52379.6719)">
+<path id="Background3" class="st2" d="M255.6,107c0,0,33.3-103.8,141.8-103.8c88.7,0.8,174.3,152.2,45.9,319.5
+	C312.6,474.8,255.6,508.9,255.6,508.9s-55.5-26.2-183.8-185.5C-58.1,170.4,17.9,1.5,124.1,3.1C230.2,3.9,255.6,107,255.6,107z"/>
+<linearGradient id="Background4_1_" gradientUnits="userSpaceOnUse" x1="-502.3997" y1="1009.85" x2="-496.8521" y2="1015.3977" gradientTransform="matrix(63.7933 0 0 -63.8014 32087.4121 64821.5391)">
 	<stop  offset="0" style="stop-color:#FE7F7C"/>
 	<stop  offset="0.5" style="stop-color:#FE7F7C;stop-opacity:0"/>
 </linearGradient>
-<path id="Background4" class="st3" d="M31.9,13.5c0,0,4.2-12.9,17.7-12.9c11.1,0.1,21.8,18.9,5.7,39.7C39,59.2,31.9,63.4,31.9,63.4
-	s-6.9-3.2-23-23c-16.2-19-6.7-40,6.5-39.8C28.7,0.7,31.9,13.5,31.9,13.5z"/>
-<linearGradient id="Background5_1_" gradientUnits="userSpaceOnUse" x1="-753.903" y1="820.0656" x2="-754.8898" y2="821.0524" gradientTransform="matrix(63.7933 0 0 -63.8014 48162.4922 52379.6719)">
+<path id="Background4" class="st3" d="M255.6,107c0,0,33.3-103.8,141.8-103.8c88.7,0.8,174.3,152.2,45.9,319.5
+	C312.6,474.8,255.6,508.9,255.6,508.9s-55.5-26.2-183.8-185.5C-58.1,170.4,17.9,1.5,124.1,3.1C230.2,3.9,255.6,107,255.6,107z"/>
+<linearGradient id="Background5_1_" gradientUnits="userSpaceOnUse" x1="-494.3705" y1="1008.6594" x2="-502.2956" y2="1016.5844" gradientTransform="matrix(63.7933 0 0 -63.8014 32087.4121 64821.5391)">
 	<stop  offset="0" style="stop-color:#F3BE98"/>
 	<stop  offset="0.5" style="stop-color:#F3BE98;stop-opacity:0"/>
 </linearGradient>
-<path id="Background5" class="st4" d="M31.9,13.5c0,0,4.2-12.9,17.7-12.9c11.1,0.1,21.8,18.9,5.7,39.7C39,59.2,31.9,63.4,31.9,63.4
-	s-6.9-3.2-23-23c-16.2-19-6.7-40,6.5-39.8C28.7,0.7,31.9,13.5,31.9,13.5z"/>
-<path id="Shade" class="st5" d="M31.7,26.6c0,0,0.1-23.5,17.9-23.5c10.8,0,17.2,20.2,3.8,35.7C37,57.9,31.7,60.6,31.7,60.6
-	s-6.3-3.5-20.9-21.8C-2.9,21.9,3,3,15.7,3.2C31.9,3.4,31.7,26.6,31.7,26.6z"/>
+<path id="Background5" class="st4" d="M255.6,107c0,0,33.3-103.8,141.8-103.8c88.7,0.8,174.3,152.2,45.9,319.5
+	C312.6,474.8,255.6,508.9,255.6,508.9s-55.5-26.2-183.8-185.5C-58.1,170.4,17.9,1.5,124.1,3.1C230.2,3.9,255.6,107,255.6,107z"/>
+<path id="Shade" class="st5" d="M254,212.4c0,0,0.8-189.5,143.4-189.5c86.4,0,137.8,162.5,30.1,287.8C296,464.5,254,486.7,254,486.7
+	s-50.7-28.5-167.2-175.2C-22.5,174.4,24.3,22.1,125.7,23.7C255.6,25.3,254,212.4,254,212.4z"/>
 <g id="Shine" class="st6">
 	<g>
 		<g>
 			<defs>
-				<path id="SVGID_1_" d="M31.7,26.6c0,0,0.1-23.5,17.9-23.5c10.8,0,17.2,20.2,3.8,35.7C37,57.9,31.7,60.6,31.7,60.6
-					s-6.3-3.5-20.9-21.8C-2.9,21.9,3,3,15.7,3.2C31.9,3.4,31.7,26.6,31.7,26.6z"/>
+				<path id="SVGID_1_" d="M254,212.4c0,0,0.8-189.5,143.4-189.5c86.4,0,137.8,162.5,30.1,287.8C296,464.5,254,486.7,254,486.7
+					s-50.7-28.5-167.2-175.2C-22.5,174.4,24.3,22.1,125.7,23.7C255.6,25.3,254,212.4,254,212.4z"/>
 			</defs>
 			<clipPath id="SVGID_2_">
 				<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
 			</clipPath>
-			<path class="st7" d="M65-3.2c0,35.8-15,37.8-33.5,37.8S-2,32.6-2-3.2C-2-24.1,13-41,31.5-41S65-24.1,65-3.2z"/>
+			<path class="st7" d="M520.2-27.8c0,288.6-119.6,304.4-267.8,304.4S-15.3,260.8-15.3-27.8c0-168.1,119.6-304.4,267.8-304.4
+				S520.2-195.9,520.2-27.8z"/>
 		</g>
 	</g>
 </g>
