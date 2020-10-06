@@ -27,7 +27,6 @@
 	<stop offset="87.5%" style="stop-color:rgb(117, 7, 135);stop-opacity:1;" />
 	<stop offset="100" style="stop-color:rgb(118, 8, 136);stop-opacity:1;" />
 </linearGradient>
-</defs>
 
 <path id="Background2" class="st1" d="M255.6,107c0,0,33.3-103.8,141.8-103.8c88.7,0.8,174.3,152.2,45.9,319.5
 	C312.6,474.8,255.6,508.9,255.6,508.9s-55.5-26.2-183.8-185.5C-58.1,170.4,17.9,1.5,124.1,3.1C230.2,3.9,255.6,107,255.6,107z"/>
