@@ -19,6 +19,8 @@ The beautiful rainbow heart emoji to use for your own community.
 |---|:-:|---|---|---|
 | Vonage Heart | <img src="hearts/vonage_heart.svg" height="52"> | [SVG](hearts/vonage_heart.svg) | [PNG](hearts/vonage_heart.png) | [@lukeocodes](https://github.com/lukeocodes) |
 | Pride Heart | <img src="hearts/pride_heart.svg" height="52"> | [SVG](hearts/pride_heart.svg) | [PNG](hearts/pride_heart.png) | [@lukeocodes](https://github.com/lukeocodes) |
+| Digital Ocean Heart | <img src="hearts/do_heart.svg" height="52"> | [SVG](hearts/do_heart.svg) | [PNG](hearts/do_heart.png) | [@lukeocodes](https://github.com/lukeocodes) |
+| Hacktoberfest 2020 Heart | <img src="hearts/hf_heart_2020.svg" height="52"> | [SVG](hearts/hf_heart_2020.svg) | [PNG](hearts/hf_heart_2020.png) | [@lukeocodes](https://github.com/lukeocodes) |
 
 ## Contributing
 
