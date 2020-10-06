@@ -1,0 +1,34 @@
+{
+  "name": "hearts",
+  "version": "1.0.0",
+  "description": "SVG emoji hearts for styling",
+  "main": "index.js",
+  "scripts": {
+    "build": "./node_modules/.bin/convert-svg-to-png hearts/**.svg --height=512 --width=512"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukeocodes/vonage-heart.git"
+  },
+  "keywords": [
+    "svg",
+    "vonage",
+    "heart",
+    "emoji",
+    "unicode",
+    "red",
+    "heart",
+    "svg",
+    "gradient"
+  ],
+  "author": "Luke Oliff <luke@lukeoliff.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lukeocodes/vonage-heart/issues"
+  },
+  "homepage": "https://github.com/lukeocodes/vonage-heart#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "convert-svg-to-png": "^0.5.0"
+  }
+}
