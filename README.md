@@ -15,9 +15,10 @@ The beautiful rainbow heart emoji to use for your own community.
 
 ## All the hearts
 
-| Name | 24px | SVG | PNG | Contributor |
-|---|---|---|---|---|
-| Vonage Heart | <img src="hearts/vonage_heart.png" height="24"> | [SVG](hearts/vonage_heart.svg) | [SVG](hearts/vonage_heart.svg) | [@lukeocodes](https://github.com/lukeocodes) |
+| Name | 52px | SVG | PNG | Contributor |
+|---|:-:|---|---|---|
+| Vonage Heart | <img src="hearts/vonage_heart.png" height="52"> | [SVG](hearts/vonage_heart.svg) | [PNG](hearts/vonage_heart.png) | [@lukeocodes](https://github.com/lukeocodes) |
+| Pride Heart | <img src="hearts/pride_heart.png" height="52"> | [SVG](hearts/pride_heart.svg) | [PNG](hearts/pride_heart.png) | [@lukeocodes](https://github.com/lukeocodes) |
 
 ## Contributing
 
