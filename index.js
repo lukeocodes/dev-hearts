@@ -69,7 +69,7 @@ const writeFiles = (files) => {
 const buildTableOutput = (files) => {
   files = files.map(file => ({
     name: capitalCase(file.name),
-    code: `:${file.name}:`,
+    code: `: ${file.name} :`,
     svg: _htmlImg(_srcLink(file.svg), file.name),
     pngs: file.pngs.map(png =>_htmlLink(_destLink(png.name), `${png.size}px`)).join(', ')
   }))
