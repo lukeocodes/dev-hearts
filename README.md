@@ -3,9 +3,9 @@
 ![](https://img.shields.io/github/contributors/lukeocodes/vonage-heart)
 ![](https://img.shields.io/github/issues/lukeocodes/vonage-heart)
 
-# Vonage Heart
+# Dev Hearts
 
-It all started with the beautiful rainbow heart emoji I made in Photoshop, that used the Vonage brand guidelines "gradient" as background colour. It was so pretty, it became popular on our own Slack and then used by our community team on other platforms, like the Hacktoberfest Discord.
+It all started with the beautiful rainbow "Vonage" heart emoji I made in Photoshop, that used the Vonage brand guidelines "gradient" as background colour. It was so pretty, it became popular on the Vonage internal Slack and then used by the Vonage community team on other platforms, like the Hacktoberfest Discord.
 
 Now, it has been re-created as SVG to be remixed into other pretty hearts.
 
