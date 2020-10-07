@@ -5,7 +5,9 @@
 
 # Vonage Heart
 
-The beautiful rainbow heart emoji to use for your own community.
+It all started with the beautiful rainbow heart emoji I made in Photoshop, that used the Vonage brand guidelines "gradient" as background colour. It was so pretty, it became popular on our own Slack and then used by our community team on other platforms, like the Hacktoberfest Discord.
+
+Now, it has been re-created as SVG to be remixed into other pretty hearts.
 
 <p align="center">
 <img src="hearts/vonage_heart.png" height="256">
