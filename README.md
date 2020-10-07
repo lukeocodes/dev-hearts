@@ -26,15 +26,18 @@ Now, it has been re-created as SVG to be remixed into other pretty hearts.
 
 ## Contributing
 
-- Fork this repository (STAR IT TOO!).
+- Fork this repository, then clone it to your machine.
 - Create your own heart SVG in the `src` directory. 
 - Run `npm install` (first time only).
-- Run `npm run build`.
-- Add your heart to the table.
+- Run `npm run build` to generate the PNG versions.
+- Add your heart to the README in this format:
+  ```
+  | Your heart name | <img src="src/file_name.svg" height="52"> | [SVG](src/file_name.svg) | [16px](build/file_name_16.png) [32px](build/file_name_32.png) [64px](build/file_name_64.png) [128px](build/file_name_128.png) [256px](build/file_name_256.png) [512px](build/file_name_512.png) [1024px](build/file_name_1024.png) | [@you](https://github.com/your-github) |
+  ```
 
 ## Why?
 
-Because, open source <img src="src/vonage_heart.svg" height="16"> at its finest.
+Because, open source <img src="src/vonage_heart.svg" height="16"> at its finest. And, good heart emojis are hard.
 
 ## License
 
