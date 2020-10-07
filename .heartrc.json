@@ -1,0 +1,9 @@
+{
+  "sizes": [
+    256,
+    512,
+    1024
+  ],
+  "srcDir": "./src/",
+  "destDir": "./build/"
+}

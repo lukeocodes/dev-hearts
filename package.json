@@ -4,7 +4,7 @@
   "description": "SVG emoji hearts for styling",
   "main": "index.js",
   "scripts": {
-    "build": "./node_modules/.bin/convert-svg-to-png hearts/**.svg --height=512 --width=512"
+    "build": "node ."
   },
   "repository": {
     "type": "git",
