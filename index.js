@@ -85,6 +85,6 @@ const writeTableOutput = (output) => {
 
 setup()
 const allFiles = buildFileObject()
-// writeFiles(allFiles)
+writeFiles(allFiles)
 const tableOutput = buildTableOutput(allFiles)
 writeTableOutput(tableOutput)
