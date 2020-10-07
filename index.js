@@ -1,5 +1,5 @@
 const fs = require('fs')
-const { convertFile } = require('convert-svg-to-png')
+const { createConverter } = require('convert-svg-to-png')
 const tablemark = require('tablemark')
 const { capitalCase } = require('change-case')
 const config = require('./.heartrc.json')
@@ -52,18 +52,24 @@ const buildFileObject = () => {
   })
 }
 
-const writeFiles = (files) => {
-  files.forEach(file => {
-    file.pngs.forEach(png => {
-      convertFile(_srcLink(file.svg), {
-        outputFilePath: _destLink(png.name),
-        width: png.size,
-        height: png.size
-      })
-        .then(d => console.log('Created ' + d))
-        .catch(e => console.error(e))
-    })
-  })
+const writeFiles = async (files) => {
+  const converter = createConverter();
+
+  try {
+    for (const file of files) {
+      for (const png of file.pngs) {
+        await converter.convertFile(_srcLink(file.svg), {
+            outputFilePath: _destLink(png.name),
+            width: png.size,
+            height: png.size,
+          })
+          .then((d) => console.log("Created " + d))
+          .catch((e) => console.error(e));
+      }
+    }
+  } finally {
+    converter.destroy();
+  }
 }
 
 const buildTableOutput = (files) => {
