@@ -19,6 +19,7 @@
   "tablemark": {
     "columns": [
       { "align": "left" },
+      { "name": "Code", "align": "center" },
       { "name": "SVG", "align": "center" },
       { "name": "PNGs", "align": "center" }
     ]
