@@ -10,7 +10,7 @@ It all started with the beautiful rainbow heart emoji I made in Photoshop, that 
 Now, it has been re-created as SVG to be remixed into other pretty hearts.
 
 <p align="center">
-<img src="build/vonage_heart_512.png" height="256">
+<img src="src/vonage_heart.svg" height="256">
 </p>
 
 <hr/>
@@ -19,10 +19,10 @@ Now, it has been re-created as SVG to be remixed into other pretty hearts.
 
 | Name | 52px | SVG | PNG | Contributor |
 |---|:-:|---|---|---|
-| Vonage Heart | <img src="src/vonage_heart.svg" height="52"> | [SVG](src/vonage_heart.svg) | [PNG](build/vonage_heart_512.png) | [@lukeocodes](https://github.com/lukeocodes) |
-| Pride Heart | <img src="src/pride_heart.svg" height="52"> | [SVG](src/pride_heart.svg) | [PNG](build/pride_heart_512.png) | [@lukeocodes](https://github.com/lukeocodes) |
-| Digital Ocean Heart | <img src="src/do_heart.svg" height="52"> | [SVG](src/do_heart.svg) | [PNG](build/do_heart_512.png) | [@lukeocodes](https://github.com/lukeocodes) |
-| Hacktoberfest 2020 Heart | <img src="src/hf_heart_2020.svg" height="52"> | [SVG](src/hf_heart_2020.svg) | [PNG](build/hf_heart_2020_512.png) | [@lukeocodes](https://github.com/lukeocodes) |
+| Vonage Heart | <img src="src/vonage_heart.svg" height="52"> | [SVG](src/vonage_heart.svg) | [16px](build/vonage_heart_16.png) [32px](build/vonage_heart_32.png) [64px](build/vonage_heart_64.png) [128px](build/vonage_heart_128.png) [256px](build/vonage_heart_256.png) [512px](build/vonage_heart_512.png) [1024px](build/vonage_heart_1024.png) | [@lukeocodes](https://github.com/lukeocodes) |
+| Pride Heart | <img src="src/pride_heart.svg" height="52"> | [SVG](src/pride_heart.svg) | [16px](build/pride_heart_16.png) [32px](build/pride_heart_32.png) [64px](build/pride_heart_64.png) [128px](build/pride_heart_128.png) [256px](build/pride_heart_256.png) [512px](build/pride_heart_512.png) [1024px](build/pride_heart_1024.png) | [@lukeocodes](https://github.com/lukeocodes) |
+| Digital Ocean Heart | <img src="src/do_heart.svg" height="52"> | [SVG](src/do_heart.svg) | [16px](build/do_heart_16.png) [32px](build/do_heart_32.png) [64px](build/do_heart_64.png) [128px](build/do_heart_128.png) [256px](build/do_heart_256.png) [512px](build/do_heart_512.png) [1024px](build/do_heart_1024.png) | [@lukeocodes](https://github.com/lukeocodes) |
+| Hacktoberfest 2020 Heart | <img src="src/hf_heart_2020.svg" height="52"> | [SVG](src/hf_heart_2020.svg) | [16px](build/hf_heart_2020_16.png) [32px](build/hf_heart_2020_32.png) [64px](build/hf_heart_2020_64.png) [128px](build/hf_heart_2020_128.png) [256px](build/hf_heart_2020_256.png) [512px](build/hf_heart_2020_512.png) [1024px](build/hf_heart_2020_1024.png) | [@lukeocodes](https://github.com/lukeocodes) |
 
 ## Contributing
 
@@ -34,7 +34,7 @@ Now, it has been re-created as SVG to be remixed into other pretty hearts.
 
 ## Why?
 
-Because, open source <img src="build/vonage_heart_512.png" height="16"> at its finest.
+Because, open source <img src="src/vonage_heart.svg" height="16"> at its finest.
 
 ## License
 
