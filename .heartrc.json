@@ -8,6 +8,7 @@
     512,
     1024
   ],
+  "defaultSize": 64,
   "srcDir": "./src/",
   "destDir": "./build/"
 }
