@@ -17,23 +17,24 @@ Now, it has been re-created as SVG to be remixed into other pretty hearts.
 
 ## All the hearts
 
-| Name | 52px | SVG | PNG | Contributor |
-|---|:-:|---|---|---|
-| Vonage Heart | <img src="src/vonage_heart.svg" height="52"> | [SVG](src/vonage_heart.svg) | [16px](build/vonage_heart_16.png) [32px](build/vonage_heart_32.png) [64px](build/vonage_heart_64.png) [128px](build/vonage_heart_128.png) [256px](build/vonage_heart_256.png) [512px](build/vonage_heart_512.png) [1024px](build/vonage_heart_1024.png) | [@lukeocodes](https://github.com/lukeocodes) |
-| Pride Heart | <img src="src/pride_heart.svg" height="52"> | [SVG](src/pride_heart.svg) | [16px](build/pride_heart_16.png) [32px](build/pride_heart_32.png) [64px](build/pride_heart_64.png) [128px](build/pride_heart_128.png) [256px](build/pride_heart_256.png) [512px](build/pride_heart_512.png) [1024px](build/pride_heart_1024.png) | [@lukeocodes](https://github.com/lukeocodes) |
-| Digital Ocean Heart | <img src="src/do_heart.svg" height="52"> | [SVG](src/do_heart.svg) | [16px](build/do_heart_16.png) [32px](build/do_heart_32.png) [64px](build/do_heart_64.png) [128px](build/do_heart_128.png) [256px](build/do_heart_256.png) [512px](build/do_heart_512.png) [1024px](build/do_heart_1024.png) | [@lukeocodes](https://github.com/lukeocodes) |
-| Hacktoberfest 2020 Heart | <img src="src/hf_heart_2020.svg" height="52"> | [SVG](src/hf_heart_2020.svg) | [16px](build/hf_heart_2020_16.png) [32px](build/hf_heart_2020_32.png) [64px](build/hf_heart_2020_64.png) [128px](build/hf_heart_2020_128.png) [256px](build/hf_heart_2020_256.png) [512px](build/hf_heart_2020_512.png) [1024px](build/hf_heart_2020_1024.png) | [@lukeocodes](https://github.com/lukeocodes) |
+<!-- START TABLE -->
+| Name          |       SVG       |                                 PNGs                                 | Pngs                                                                                                                                                                                                                                                                             |
+| :------------ | :-------------: | :------------------------------------------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Do Heart      |   :do_heart:    |      <img src="./src/do_heart.svg" alt="do_heart" width="64" />      | [16px](./build/do_heart@0.25x.png), [32px](./build/do_heart@0.5x.png), [64px](./build/do_heart.png), [128px](./build/do_heart@2x.png), [256px](./build/do_heart@4x.png), [512px](./build/do_heart@8x.png), [1024px](./build/do_heart@16x.png)                                    |
+| Hf Heart 2020 | :hf_heart_2020: | <img src="./src/hf_heart_2020.svg" alt="hf_heart_2020" width="64" /> | [16px](./build/hf_heart_2020@0.25x.png), [32px](./build/hf_heart_2020@0.5x.png), [64px](./build/hf_heart_2020.png), [128px](./build/hf_heart_2020@2x.png), [256px](./build/hf_heart_2020@4x.png), [512px](./build/hf_heart_2020@8x.png), [1024px](./build/hf_heart_2020@16x.png) |
+| Pride Heart   |  :pride_heart:  |   <img src="./src/pride_heart.svg" alt="pride_heart" width="64" />   | [16px](./build/pride_heart@0.25x.png), [32px](./build/pride_heart@0.5x.png), [64px](./build/pride_heart.png), [128px](./build/pride_heart@2x.png), [256px](./build/pride_heart@4x.png), [512px](./build/pride_heart@8x.png), [1024px](./build/pride_heart@16x.png)               |
+| Vonage Heart  | :vonage_heart:  |  <img src="./src/vonage_heart.svg" alt="vonage_heart" width="64" />  | [16px](./build/vonage_heart@0.25x.png), [32px](./build/vonage_heart@0.5x.png), [64px](./build/vonage_heart.png), [128px](./build/vonage_heart@2x.png), [256px](./build/vonage_heart@4x.png), [512px](./build/vonage_heart@8x.png), [1024px](./build/vonage_heart@16x.png)        |
+
+<!-- END TABLE -->
 
 ## Contributing
 
 - Fork this repository, then clone it to your machine.
 - Create your own heart SVG in the `src` directory. 
 - Run `npm install` (first time only).
-- Run `npm run build` to generate the PNG versions.
-- Add your heart to the README in this format:
-  ```
-  | Your heart name | <img src="src/file_name.svg" height="52"> | [SVG](src/file_name.svg) | [16px](build/file_name_16.png) [32px](build/file_name_32.png) [64px](build/file_name_64.png) [128px](build/file_name_128.png) [256px](build/file_name_256.png) [512px](build/file_name_512.png) [1024px](build/file_name_1024.png) | [@you](https://github.com/your-github) |
-  ```
+- Run `npm run build` to generate the PNG versions and update the README
+- Commit changes.
+- Push!
 
 ## Why?
 

@@ -29,6 +29,8 @@
   "homepage": "https://github.com/lukeocodes/vonage-heart#readme",
   "devDependencies": {},
   "dependencies": {
-    "convert-svg-to-png": "^0.5.0"
+    "change-case": "^4.1.1",
+    "convert-svg-to-png": "^0.5.0",
+    "tablemark": "github:citycide/tablemark"
   }
 }

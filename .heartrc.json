@@ -8,6 +8,19 @@
     512,
     1024
   ],
+  "defaultSize": 64,
   "srcDir": "./src/",
-  "destDir": "./build/"
+  "destDir": "./build/",
+  "table": {
+    "file": "README.md",
+    "openTag": "<!-- START TABLE -->",
+    "closeTag": "<!-- END TABLE -->"
+  },
+  "tablemark": {
+    "columns": [
+      { "align": "left" },
+      { "name": "SVG", "align": "center" },
+      { "name": "PNGs", "align": "center" }
+    ]
+  }
 }
