@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Heart" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#00A290;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#191919;}
+	.st3{opacity:0.15;clip-path:url(#SVGID_2_);fill:#FFFFFF;enable-background:new    ;}
+</style>
+<path id="Background" class="st0" d="M255.6,107c0,0,33.3-103.8,141.8-103.8c88.7,0.8,174.3,152.2,45.9,319.5
+	C312.6,474.8,255.6,508.9,255.6,508.9s-55.5-26.2-183.8-185.5C-58.1,170.4,17.9,1.5,124.1,3.1C230.2,3.9,255.6,107,255.6,107z"/>
+<path class="st1" d="M256.2,220.5c128.8,2.2,128.8,193.8,0,196C127.4,414.3,127.4,222.7,256.2,220.5z"/>
+<path class="st2" d="M222.4,358.5L222.4,358.5c-5.5,0-10-4.5-10-10v-20c0-5.5,4.5-10,10-10l0,0c5.5,0,10,4.5,10,10v20
+	C232.4,354,228,358.5,222.4,358.5z"/>
+<path class="st2" d="M286.2,358.5L286.2,358.5c-5.5,0-10-4.5-10-10v-20c0-5.5,4.5-10,10-10l0,0c5.5,0,10,4.5,10,10v20
+	C296.2,354,291.7,358.5,286.2,358.5z"/>
+<g>
+	<defs>
+		<path id="SVGID_1_" d="M520.2-27.8c0,288.6-119.6,304.4-267.8,304.4S-15.3,260.8-15.3-27.8c0-168.1,119.6-304.4,267.8-304.4
+			S520.2-195.9,520.2-27.8z"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<path id="Shade" class="st3" d="M254,212.4c0,0,0.8-189.5,143.4-189.5c86.4,0,137.8,162.5,30.1,287.8
+		C296,464.5,254,486.7,254,486.7s-50.7-28.5-167.2-175.2C-22.5,174.4,24.3,22.1,125.7,23.7C255.6,25.3,254,212.4,254,212.4z"/>
+</g>
+</svg>
